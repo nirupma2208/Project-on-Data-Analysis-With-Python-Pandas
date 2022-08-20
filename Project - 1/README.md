@@ -1,5 +1,5 @@
 
-# Project - 4 (Case Study - 4) 
+# Case Study - 1 (Ecommerce Purchases)
 
 To perform data analysis, I have mentioned 15 questions that I have solved. 
 
