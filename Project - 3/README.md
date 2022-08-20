@@ -1,5 +1,5 @@
 
-# Project - 3 (Case Study - 3) 
+# Case Study - 3 (adult-income-dataset) 
 
 An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
 
