@@ -5,30 +5,30 @@
 
 ## Question Solved
 
- - [Display All Rows Except the Last 5 rows Using Head Method](k)
- - [Display All Rows Except the First 5 Rows Using Tail Method](k)
- - [Find Shape of Our Dataset (Number of Rows And Number of Columns)](k)
+ - [Display All Rows Except the Last 5 rows Using Head Method](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
+ - [Display All Rows Except the First 5 Rows Using Tail Method](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
+ - [Find Shape of Our Dataset (Number of Rows And Number of Columns)](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
 
- - [Get Information About Our Dataset Like Total Number Rows, Total Number of Columns, Datatypes of Each Column And Memory Requirement](k)
- - [Get Overall Statistics About The Dataframe](k)
- - [Data Cleaning  (Replace '--'  to NaN)](k)
+ - [Get Information About Our Dataset Like Total Number Rows, Total Number of Columns, Datatypes of Each Column And Memory Requirement](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
+ - [Get Overall Statistics About The Dataframe](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
+ - [Data Cleaning  (Replace '--'  to NaN)](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
 
- - [Check Null Values In The Dataset](k)
- - [Data Cleaning Rank Column](k)
- - [Data Cleaning Video Uploads & Subscribers](k)
-
-
- - [ Data Cleaning Grade Column ](k)
- - [Find Average Views For Each Channel](k)
- - [Find Out Top Five Channels With Maximum Number of Video Uploads](k)
-
-  - [Find Correlation Matrix](k)
- - [Which Grade Has A Maximum Number of Video Uploads?](k)
+ - [Check Null Values In The Dataset](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
+ - [Data Cleaning Rank Column](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
+ - [Data Cleaning Video Uploads & Subscribers](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
 
 
- - [Which Grade Has The Highest Average Views?](k)
- - [Which Grade Has The Highest Number of Subscribers? ](k)
- - [Which Grade Has The Highest Video Views? ](k)
+ - [ Data Cleaning Grade Column ](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
+ - [Find Average Views For Each Channel](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
+ - [Find Out Top Five Channels With Maximum Number of Video Uploads](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
+
+  - [Find Correlation Matrix](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
+ - [Which Grade Has A Maximum Number of Video Uploads?](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
+
+
+ - [Which Grade Has The Highest Average Views?](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
+ - [Which Grade Has The Highest Number of Subscribers? ](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
+ - [Which Grade Has The Highest Video Views? ](https://github.com/nirupma2208/Project-on-Data-Analysis-With-Python-Pandas/tree/master/Project%20-%206)
 
 
 ## Dataset Link
